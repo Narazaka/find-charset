@@ -1,7 +1,7 @@
 {
   "name": "find-charset",
   "version": "1.0.0",
-  "description": "",
+  "description": "find charset from string data by the charset mark like \"\\x0aCharset: \"",
   "main": "dist/findCharset.js",
   "types": "dist/findCharset.d.ts",
   "files": [
