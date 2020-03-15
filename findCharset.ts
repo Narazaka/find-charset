@@ -7,8 +7,8 @@ const cr = 0x0d;
  * @param options options
  */
 export default function findCharset(
-    content: ArrayBuffer | Uint8Array | Buffer | number[],
-    charsetMark: string | number[] | ArrayBuffer | Uint8Array,
+    content: ArrayBuffer | SharedArrayBuffer | Uint8Array | Buffer | number[],
+    charsetMark: string | number[] | ArrayBuffer | SharedArrayBuffer | Uint8Array,
     options?: {
         /** case insensitive. charsetMark should be lowercase. */
         caseInsensitive?: boolean;

@@ -1,4 +1,4 @@
 {
-    "require": ["espower-typescript/guess"],
+    "require": ["espower-typescript/guess", "source-map-support/register"],
     "extension": ["ts"]
 }
