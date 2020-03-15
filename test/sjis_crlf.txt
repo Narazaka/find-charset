@@ -1,0 +1,4 @@
+GET SHIORI/3.0
+Charset: Shift_JIS
+Value: CRLFÇ≈Ç∑ÇÊÅ`
+
